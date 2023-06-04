@@ -50,9 +50,12 @@ while True:
    s.send("acknowledgement recived from the server".encode())
 ```
 
-OUTPUT :
+CLIENT OUTPUT :
 
-![EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL](https://github.com/kannan0071/EX-2/assets/119641638/cc5c3c2f-98bb-44ac-9a58-27fd4d4ed196)
+![EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL](https://github.com/Jeevapriya14/EX-2/assets/121003043/48337a5c-a013-4c2f-b14c-f5ff22f4d29d)
+
+SERVER OUTPUT:
+![EX-2 IMPLEMENTATION OF STOP AND WAIT PROTOCOL](https://github.com/Jeevapriya14/EX-2/assets/121003043/fd76f3b5-1e0e-4c52-9636-e092b3c177ee)
 
 RESULT :
 
